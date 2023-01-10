@@ -1,4 +1,4 @@
 ### Hi there 👋
-🔭 I'm freashman at Bilkent University CS department
-🌱 I’m currently learning Java
+🔭 I'm a student at Bilkent University CS department
+
 
